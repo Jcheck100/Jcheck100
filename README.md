@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A Computer Science Undergrad at The University of Conneticut</h3>
+<h3 align="center">A Mechanical Enginnering Student at The University of Conneticut</h3>
 
 - 🔭 I’m currently working on [A Fitness App](https://github.com/Jcheck100/Workout-Tracker)
 
