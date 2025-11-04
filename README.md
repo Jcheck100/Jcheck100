@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A Fitness App](https://github.com/Jcheck100/Workout-Tracker)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** & **MatLab**
 
 - 📫 How to reach me **John.Heck@Uconn.edu**
 
